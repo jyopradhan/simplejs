@@ -30,7 +30,7 @@ h1, h2 {
 
 .btn--alt {
   background-color: transparent;
-  color: #800040;
+  color: #1e0080;
 }
 
 .btn--alt:hover {
@@ -38,11 +38,11 @@ h1, h2 {
 }
 
 .card {
-  background-color: white;
+  background-color: rgb(190, 137, 137);
   border-radius: 4px;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
   padding: 1rem;
-  width: 20rem;
+  width: 40rem;
 }
 
 .actions {
